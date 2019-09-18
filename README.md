@@ -3,4 +3,8 @@ ERC20-Token
 
 ERC20 Advanced Token
 
-Language : Solidity
+Language : Solidity<br>
+<br>
+
+<p align="center">For more information<br>
+https://www.elitium.io</p>
