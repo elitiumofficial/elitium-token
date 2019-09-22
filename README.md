@@ -5,6 +5,8 @@ ERC20-Token
 
 ERC20 Advanced Token
 
+Ethereum Request For Comments 20
+
 Language : Solidity<br>
 <br>
 
